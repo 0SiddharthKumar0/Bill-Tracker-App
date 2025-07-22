@@ -158,8 +158,8 @@ File validation: PDF, size check, etc.
 * [x] UI analytics
 * [ ] Export to CSV
 * [ ] Multi-page receipt support
-* [ ] Upload via image (JPG, PNG)
-* [ ] Real-time parsing progress
+* [x] Upload via image (JPG, PNG)
+* [x] Real-time parsing progress
 * [ ] User auth + multi-tenancy
 
 ---
@@ -182,7 +182,6 @@ File validation: PDF, size check, etc.
 
 ## 📸 Screenshots
 
-Add demo screenshots or gif walkthroughs here.
 
 ---
 
@@ -191,20 +190,12 @@ Add demo screenshots or gif walkthroughs here.
 Open to feature requests or PRs. Raise an issue or fork the repo.
 
 ---
-
-## © License
-
-MIT License
-
----
-
 ## 👤 Author
 
 **Siddharth Kumar**
-MTech Project – 2025
 
 ---
 
-Ready to use. Ready to extend. Built for clarity and speed.
+Ready to use code.
 
 ---

@@ -55,7 +55,7 @@ Bill Tracker App
 │   │   └── utils.py
 │   ├── venv
 │   └── requirements.txt
-├── bill-tracker-app (frontend)
+├── frontend
 │   ├── src
 │   │   ├── api.js
 │   │   ├── App.jsx

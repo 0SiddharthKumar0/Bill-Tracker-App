@@ -1,8 +1,0 @@
-fastapi==0.110.0
-uvicorn==0.29.0
-python-multipart==0.0.9
-pytesseract==0.3.10
-pdf2image==1.17.0
-Pillow==10.4.0
-SQLModel==0.0.16
-pydantic==2.7.1
